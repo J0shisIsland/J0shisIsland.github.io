@@ -1,5 +1,5 @@
 ---
-title: "Rhythmische Fähigkeiten 7-Jähriger - Instruktion und Motorik als Prädiktoren der Rhythmusreproduktion"
+title: "Bachelor's thesis"
 collection: publications
 permalink: /publication/2022-schlichting-bachelorsthesis
 excerpt: ''

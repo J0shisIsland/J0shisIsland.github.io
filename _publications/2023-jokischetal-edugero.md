@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-05-01
 venue: 'Educational Gerontology'
 paperurl: 'https://doi.org/10.1080/03601277.2023.2201763'
-citation: 'Jokisch, M. R., Göbl, L., Schlichting, J., Leopold, D., & Doh, M. (2023). ICT Volunteering as a Protective Factor for Older Adults: Investigating Motives of Internet Use, Internet Self-Efficacy and Perceived Obsolescence. Educational Gerontology, 49, 387-399. DOI: 10.1080/03601277.2023.2201763'
+citation: 'Jokisch, M. R., Göbl, L., Schlichting, J., Leopold, D., & Doh, M. (2023). ICT Volunteering as a Protective Factor for Older Adults: Investigating Motives of Internet Use, Internet Self-Efficacy and Perceived Obsolescence. Educational Gerontology, 49, 387-399.'
 ---
 
 ## Abstract  
