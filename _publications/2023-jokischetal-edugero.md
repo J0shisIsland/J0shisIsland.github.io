@@ -1,5 +1,5 @@
 ---
-title: format('ICT Volunteering as a Protective Factor for Older Adults{0} Investigating Motives of Internet Use, Internet Self-Efficacy and Perceived Obsolescence', ':')
+title: "ICT Volunteering as a Protective Factor for Older Adults - Investigating Motives of Internet Use, Internet Self-Efficacy and Perceived Obsolescence"
 collection: publications
 permalink: /publication/2023-jokischetal-edugero
 excerpt: ''

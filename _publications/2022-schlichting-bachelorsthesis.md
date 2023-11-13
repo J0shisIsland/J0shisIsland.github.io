@@ -1,5 +1,5 @@
 ---
-title: format('Rhythmische Fähigkeiten 7-Jähriger{0} Instruktion und Motorik als Prädiktoren der Rhythmusreproduktion', ':')
+title: "Rhythmische Fähigkeiten 7-Jähriger - Instruktion und Motorik als Prädiktoren der Rhythmusreproduktion"
 collection: publications
 permalink: /publication/2022-schlichting-bachelorsthesis
 excerpt: ''
