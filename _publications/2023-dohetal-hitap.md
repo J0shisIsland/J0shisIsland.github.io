@@ -3,10 +3,10 @@ title: "Digital Media Use and the Role of Internet Self-Efficacy among Older Tec
 collection: publications
 permalink: /publication/2023-dohetal-hitap
 excerpt: ''
-date: 2023-05-01
-venue: 'Educational Gerontology'
-paperurl: 'https://doi.org/10.1080/03601277.2023.2201763'
-citation: 'Jokisch, M. R., Göbl, L., Schlichting, J., Leopold, D., & Doh, M. (2023). ICT Volunteering as a Protective Factor for Older Adults: Investigating Motives of Internet Use, Internet Self-Efficacy and Perceived Obsolescence. Educational Gerontology, 49, 387-399.'
+date: 2023-08-01
+venue: 'Human Aspects of IT for the Aged Population, HCI 2023, LNCS'
+paperurl: 'https://doi.org/10.1007/978-3-031-34917-1_32'
+citation: 'Doh, M., Schlichting, J., Leopold, D., Göbl, L., & Jokisch, M. R. (2023). Digital Media Use and the Role of Internet Self-Efficacy among Older Technology Volunteers – a Baseline Study from the Project “DiBiWohn”. In Gao, Q., Zhou, J. (eds.) <i>Human Aspects of IT for the Aged Population, HCI 2023, LNCS, vol 14043</i>, 472-488, Springer.'
 ---
 
 ## Abstract  
