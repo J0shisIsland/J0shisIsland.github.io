@@ -1,5 +1,5 @@
 ---
-title: "Digital Media Use and the Role of Internet Self-Efficacy among Older Technology Volunteers – a Baseline Study from the Project “DiBiWohn”"
+title: "Rhythmische Fähigkeiten 7-Jähriger: Instruktion und Motorik als Prädiktoren der Rhythmusreproduktion"
 collection: publications
 permalink: /publication/2022-schlichting-bachelorthesis
 excerpt: ''
