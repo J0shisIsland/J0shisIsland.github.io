@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Joshua, a graduate student in the [BEATLab](https://beatlab.mcmaster.ca/) in the Department of Psychology, Neuroscience & Behaviour at [McMaster University](https://www.mcmaster.ca/). I'm investigating music performance as a communicative device for societal issues under supervision of [Lauren Fink](https://lkfink.github.io/). Besides, I'm refining my knowledge and skills in areas such as open science, computational methods, equity, diversity and inclusion, and data management, striving to create research that corresponds to my values.  
 
-Before moving to Canada, I studied Psychology and Musicology at the University of Heidelberg and visited music psychology labs at the Max Planck Institute for Empirical Aesthetics (Frankfurt, Germany), Durham University (UK) and the University of Cambridge. Beyond academia, I'm a hobby violinist, pop culture enthusiast, and food saver.
+Before moving to Canada, I studied Psychology and Musicology at Heidelberg University (Germany) and visited music psychology labs at the Max Planck Institute for Empirical Aesthetics (Frankfurt, Germany), Durham University (UK) and the University of Cambridge. Beyond academia, I'm a hobby violinist, pop culture enthusiast, and food saver.
 
 <!--
 A data-driven personal website
