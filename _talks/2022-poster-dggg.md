@@ -1,6 +1,5 @@
 ---
-title: "Digitale Kluft im Alter nimmt deutlich ab – Entwicklung und Determinanten der
-Internetdiffusion im Alter zwischen 2002-2021"
+title: "Digitale Kluft im Alter nimmt deutlich ab – Entwicklung und Determinanten der Internetdiffusion im Alter zwischen 2002-2021"
 collection: talks
 type: "Poster"
 permalink: /talks/2022-poster-dggg
