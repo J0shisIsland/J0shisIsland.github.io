@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-talk-sysmus
 venue: "16th International Conference of Students of Systematic Musicology"
-date: 2022-10-20
+date: 2023-10-20
 location: "Sheffield, UK"
 ---
 
