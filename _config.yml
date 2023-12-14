@@ -11,7 +11,7 @@ title                    : "Joshua Schlichting"
 title_separator          : "-"
 name                     : &name "Joshua Schlichting"
 description              : &description ""
-url                      : https://J0shisIsland.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://j0shisisland.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "J0shisIsland/J0shisIsland.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : BPdm6B-eMGR9DhVAalW1lf33NiCHXiSkrI785ihAkU0
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
