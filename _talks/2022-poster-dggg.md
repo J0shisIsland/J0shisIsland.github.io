@@ -3,7 +3,7 @@ title: "Digitale Kluft im Alter nimmt deutlich ab – Entwicklung und Determinan
 collection: talks
 type: "Poster"
 permalink: /talks/2022-poster-dggg
-venue: "Joint annual congress of the German Society for Gerontology and Geri-atrics (DGGG) and the German Society for Geriatrics (DGG)"
+venue: "Joint annual congress of the German Society for Gerontology and Geriatrics (DGGG) and the German Society for Geriatrics (DGG)"
 date: 2022-09-14
 location: "Frankfurt a. M., Germany"
 ---
